@@ -4,7 +4,7 @@ description: Under construction
 
 lsi: false
 safe: true
-source: github.com/arian-vb/arian-vb.github.io
+source: www.github.com/arian-vb/arian-vb.github.io
 incremental: false
 highlighter: rouge
 gist:
