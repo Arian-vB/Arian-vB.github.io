@@ -1,6 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Homepage of Arian von Blanckenburg
+list_title: Publications
 ---
+
+Welcome!
+
+My research
+
+- [Pulsar Timing Arrays](/pulsar-timing-arrays)
+- [Newton-Cartan Gravity](/newton-cartan-gravity)
